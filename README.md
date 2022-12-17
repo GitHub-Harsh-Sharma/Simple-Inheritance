@@ -1,1 +1,1 @@
-# Simple-Inheritance
+# Single-Inheritance
